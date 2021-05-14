@@ -1,3 +1,4 @@
-# SDSU-Projects
-Projects and code that I have developed for my classes in my years at State. 
-These have been done in several languages for several different purposes. 
+# Coding Projects
+The projects in this repository include school assignments and personal endeavors. 
+They range from several languages and for several different purposes. 
+
